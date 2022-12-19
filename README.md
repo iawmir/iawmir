@@ -13,6 +13,9 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iawmir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Amir Github Stats" width="450">
 </p>
+<p align='center'>
+  <img src="https://profile-counter.glitch.me/{iawmir}/count.svg" alt="visitor badge"/>
+</p>
 
 
 
