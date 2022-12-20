@@ -58,7 +58,7 @@ Currently I'm learning and practicing courses and algorithms,
  
   <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=iawmir&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iawmir&hide=html&layout=compact&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iawmir&show=html&layout=compact&theme=highcontrast" />
  </div>
  
  
